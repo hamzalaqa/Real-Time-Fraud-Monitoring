@@ -9,7 +9,7 @@
 
 ## 🎥 Demo Screenshot
 
-![Fraud Detection Dashboard](Screenshot%202025-08-22%20at%207.31.45%20PM.png)
+![Fraud Detection Dashboard](dashboard-demo.png)
 
 *Live dashboard showing real-time fraud detection with transaction monitoring, alerts, and ML model insights*
 
