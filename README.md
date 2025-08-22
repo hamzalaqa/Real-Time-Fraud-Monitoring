@@ -1,17 +1,19 @@
 # 💳 Real-Time Fraud Monitoring System
 
-[![Demo Video](https://img.shields.io/badge/🎥_Demo-Contact_for_Video-red?style=for-the-badge)](#demo-video)
+[![Demo Screenshot](https://img.shields.io/badge/📸_Demo-Live_Screenshot-red?style=for-the-badge)](#demo-screenshot)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker)](https://docker.com)
 [![ML Model](https://img.shields.io/badge/ML-XGBoost-green?style=for-the-badge)](https://xgboost.ai)
 [![Real-time](https://img.shields.io/badge/Streaming-Kafka-orange?style=for-the-badge&logo=apache-kafka)](https://kafka.apache.org)
 
 > **Production-ready real-time fraud detection system using machine learning, streaming data pipelines, and interactive dashboards.**
 
-## 🎥 Demo Video
+## 🎥 Demo Screenshot
 
-> **Demo video available on request** - Contact for live system demonstration
+![Fraud Detection Dashboard](Screenshot%202025-08-22%20at%207.31.45%20PM.png)
 
-*The complete system in action - real-time fraud detection with live dashboard updates*
+*Live dashboard showing real-time fraud detection with transaction monitoring, alerts, and ML model insights*
+
+> **Live demo available on request** - Contact for system demonstration
 
 ---
 
